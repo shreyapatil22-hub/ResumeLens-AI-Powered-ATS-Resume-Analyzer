@@ -1,5 +1,6 @@
 # ResumeLens-AI-Powered-ATS-Resume-Analyzer
 AI-powered Resume Analyzer built with Next.js, Node.js, Express.js, MongoDB, and Google Gemini AI.
+
 • Built a full-stack AI resume analysis platform using Next.js, TypeScript, Express.js, MongoDB, and Google Gemini API.
 
 • Implemented secure JWT authentication, PDF upload and parsing, AI-generated ATS scoring, role matching, keyword optimization, grammar feedback, and skills-gap analysis.
